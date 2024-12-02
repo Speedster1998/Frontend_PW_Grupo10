@@ -12,7 +12,7 @@ const Navbar = ({ openCartPage }) => {
       padding: '8px 25px',
     }}>
       <div>
-        <a className='logo' href='http://localhost:5173'><img src={logo} alt="HP Logo" style={{ height: '50px' }} /></a>
+        <a className='logo' href='https://speedster1998.github.io/Frontend_PW_Grupo10/'><img src={logo} alt="HP Logo" style={{ height: '50px' }} /></a>
       </div>
       <ul style={{
         listStyle: 'none',
